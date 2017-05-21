@@ -1,3 +1,6 @@
+// Note: In order to create a basic card, you must ask a question and answer it
+// Note: In order to make a cloze card, you must make a statement followed by the cloze deletion
+
 // This section is for the variables to create the card
 var basic = '';
 var cloze = '';
