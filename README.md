@@ -10,4 +10,4 @@ You must enter a question followed by a question mark. After the question mark y
 
 To make a Cloze Card:
 You must enter a statement of fact followed by a period. After the period, you must indicate the cloze
-deletion phrase.
+deletion phrase by re-typing it.
