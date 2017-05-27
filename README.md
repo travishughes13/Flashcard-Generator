@@ -1,7 +1,7 @@
 # Flashcard-Generator
 
 This flashcard generator is the backend implementation for generating a basic flashcard question, and for 
-generating a flashcard with a cloze deletion. Although the full card for each is console log, front-end
+generating a flashcard with a cloze deletion. Although the full card for each is console logged, front-end
 implementations were not truly considered except as a means of testing card generation. It uses constructors
 to create new cards.
 
